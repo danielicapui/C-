@@ -1,0 +1,11 @@
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+int main() {
+    int  a,b;
+    cin >>a>>b;
+    soma=a+b;
+    cout <<"SOMA = "<<soma<<endl;
+    return 0;
+}
